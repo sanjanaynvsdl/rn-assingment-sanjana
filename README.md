@@ -1,6 +1,6 @@
 # Pocket Expenses
 
-![App Screenshot](expense-app/Expense%20Tracker%20APP.png)
+![App Screenshot](./app-screenshot.png)
 
 A full-stack mobile expense tracking application built with React Native and Node.js.
 
