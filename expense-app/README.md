@@ -1,3 +1,0 @@
-sanjanayalamarthi_db_user
-COS616O3C1QwoOHH
-mongodb+srv://sanjanayalamarthi_db_user:COS616O3C1QwoOHH@cluster0.pyzrzo4.mongodb.net/
